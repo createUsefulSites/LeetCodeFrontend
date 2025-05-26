@@ -7,7 +7,3 @@
 To run a specific TypeScript file (e.g., **src/sentense-calculator/index.ts**):
 
 `ts-node src/sentense-calculator`
-
-## Compile TypeScript to JavaScript
-
-`npm run build`
