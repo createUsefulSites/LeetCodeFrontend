@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "start": "ts-node src/$1",
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
-}
