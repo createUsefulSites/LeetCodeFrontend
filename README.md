@@ -4,10 +4,6 @@
 
 ## Run a TypeScript file
 
-To run a specific TypeScript file (e.g., **src/file-name.ts**):
+To run a specific TypeScript file (e.g., **src/sentense-calculator/index.ts**):
 
-`npm start file-name.ts`
-
-## Compile TypeScript to JavaScript
-
-`npm run build`
+`ts-node src/sentense-calculator`
